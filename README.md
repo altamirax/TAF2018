@@ -7,6 +7,6 @@ OLD PROJECT
 
 ASP.NET FW 4.0 WebForms VB.NET
 --
-http://altamira.sytes.net/tafx/
+http://altamira.sytes.net/tafx/default.aspx
 
 ok
